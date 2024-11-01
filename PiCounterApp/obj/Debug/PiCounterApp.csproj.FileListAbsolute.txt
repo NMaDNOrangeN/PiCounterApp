@@ -1,0 +1,7 @@
+C:\Users\Егор\source\repos\PiCounterApp\bin\Debug\PiCounterApp.exe.config
+C:\Users\Егор\source\repos\PiCounterApp\bin\Debug\PiCounterApp.exe
+C:\Users\Егор\source\repos\PiCounterApp\bin\Debug\PiCounterApp.pdb
+C:\Users\Егор\source\repos\PiCounterApp\obj\Debug\PiCounterApp.csproj.AssemblyReference.cache
+C:\Users\Егор\source\repos\PiCounterApp\obj\Debug\PiCounterApp.csproj.CoreCompileInputs.cache
+C:\Users\Егор\source\repos\PiCounterApp\obj\Debug\PiCounterApp.exe
+C:\Users\Егор\source\repos\PiCounterApp\obj\Debug\PiCounterApp.pdb
