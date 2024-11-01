@@ -13,10 +13,10 @@ namespace PiCounterApp
         {
             try
             {
-                UInt64 n;
+                UInt32 n;
                 Console.WriteLine("Напишите желаемое количество точек, которые будут использованы в программе:");
-                n = UInt64.Parse(Console.ReadLine());
-                UInt64 totalPoints = n; // Количество случайных точек
+                n = UInt32.Parse(Console.ReadLine());
+                UInt32 totalPoints = n; // Количество случайных точек
                 uint insideCircle = 0; // Количество точек внутри круга
 
                 Random random = new Random();
@@ -34,7 +34,7 @@ namespace PiCounterApp
                 }
                 // Вычисляем π
                 double pi = 4.0 * insideCircle / totalPoints;
-                Console.WriteLine($"Приближенное значение числа π: {pi}");
+                Console.WriteLine($"Приближенное значение числа pi: {pi}");
             }
             catch
             {
